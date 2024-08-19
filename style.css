@@ -5,7 +5,10 @@
     outline: none;
     border: none;
     text-transform: capitalize;
-    transition: 2s linear;
+    /* transition: 2s linear; */
+}
+body{
+    overflow-x: hidden;
 }
 .header{
     background-image: url("coffee 1.jpg");
