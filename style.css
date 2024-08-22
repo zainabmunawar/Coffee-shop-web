@@ -407,7 +407,9 @@ h3{
 
    @media only screen and (max-width: 835px){
     .body{
-        overflow-x: hidden;
+        height: 100vh;
+        max-width:100vw;
+        
     }
     .menu{
          display:inline-block; 
@@ -422,7 +424,7 @@ h3{
     .options{
       position: absolute;
       top:0; right:-100%;
-      width:8rem;
+      width:10rem;
       height:20rem;
       color:black;
       background: white;
