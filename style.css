@@ -407,7 +407,7 @@ h3{
 
    @media only screen and (max-width: 835px){
     body{
-        touch-action:pan-x;
+        touch-action:pan-y;
      
     }
     .menu{
