@@ -406,12 +406,8 @@ h3{
 /* **************************** */
 
    @media only screen and (max-width: 835px){
-    .body{
-        height: 100vh;
-        max-width:60vw;
-        margin:0;
-        padding:0;
-        box-sizing:border-box;
+    body{
+      
         transform: scale(1);
     }
     .menu{
