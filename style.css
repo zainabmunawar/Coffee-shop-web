@@ -419,10 +419,11 @@ h3{
     }
     .navbar{
         width:110vw;
+       
     }
     .options{
       position: absolute;
-      top:0; right:-100%;
+      top:0; right:-99%;
       width:10rem;
       height:20rem;
       color:black;
