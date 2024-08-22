@@ -407,8 +407,7 @@ h3{
 
    @media only screen and (max-width: 835px){
     body{
-      
-        transform: scale(1);
+      min-width:100vw;
     }
     .menu{
          display:inline-block; 
