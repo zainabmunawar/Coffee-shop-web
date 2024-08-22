@@ -408,7 +408,7 @@ h3{
    @media only screen and (max-width: 835px){
     .body{
         height: 100vh;
-        max-width:100vw;
+        min-width:100vw;
         
     }
     .menu{
