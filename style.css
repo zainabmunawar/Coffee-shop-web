@@ -14,6 +14,7 @@ body{
     background-image: url("coffee 1.jpg");
     background-size: cover;
     height:100vh;
+    width:100%;
 }
 .navbar{
     width:100%;
@@ -418,7 +419,7 @@ h3{
         background-size: cover;
     }
     .navbar .menu-page .contact-page .customer-review{
-        width:110vw;
+        width:120vw;
        
     }
     .options{
