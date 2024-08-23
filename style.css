@@ -205,6 +205,7 @@ a:focus:hover {
 
 .menu-page{
     height:100%;
+    width:100%;
     padding: 3vw 0 0 0;
     background-color: black;
 }
@@ -338,6 +339,7 @@ a:focus:hover {
     display: flex;
     flex-direction: column;
     padding: 3vw 0 3vw;
+    width:100%;
 }
 .contact-page h1{
     background-color: black;
