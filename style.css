@@ -415,11 +415,14 @@ h3{
          display:inline-block; 
     }
     .header{
-        width:110vw;
+        width:100vw;
         background-size: cover;
     }
-    .navbar .menu-page .contact-page .customer-review{
-        width:120vw;
+    .navbar{
+        width:100vw;
+    }
+    .menu-page .contact-page .customer-review{
+        width:110vw;
        
     }
     .options{
