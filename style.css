@@ -408,18 +408,11 @@ h3{
 /* **************************** */
 
    @media only screen and (max-width: 835px){
-    body{
-        touch-action:pan-y;
-        zoom:none;
-        background-size: cover;
-    
-     
-    }
     .menu{
          display:inline-block; 
     }
     .header{
-        width:100%;
+        width:110vw;
         background-size: cover;
     }
     .navbar{
