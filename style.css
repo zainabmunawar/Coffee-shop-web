@@ -108,12 +108,14 @@ a:focus:hover {
     right:-100%; top:0;
     padding-top:0.1rem;
     margin-top: 80px;
+    display:none;
     
    
 }
 .cart-container.active{
     right:0; top:0;
     position: fixed;
+    display:block;
 }
 .cart-container i{
     color:black;
