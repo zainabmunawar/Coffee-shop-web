@@ -43,7 +43,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: space-evenly;
-    transition: all 0s ease-in 0s;
+   
 }
 a{
     color:white;
@@ -55,7 +55,7 @@ a{
 a:focus:hover {
     color:rgb(168, 100, 52);
     text-decoration: underline;
-    transition: none;
+    
 }
 .icons{
     color:#ffff;
@@ -67,11 +67,11 @@ a:focus:hover {
 }
 .icons i{
     margin-left: 10px;
-    transition:all 0s ease in 0s;
+   
 }
 .icons i:hover{
     color:rgb(168, 100, 52);
-    transition: none;
+    transition:all 0s linear 0s;
 }
 .menu{
     display:none;
@@ -435,12 +435,12 @@ h3{
       display:none;
       flex-direction: column;
       align-items: center;  
-      justify-content: center;
       margin-top: 5rem;
 
     }
    a{
         color:black;
+        margin-left: 3vw;
     }
     .options.active{
         position: absolute;
